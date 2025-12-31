@@ -1,3 +1,7 @@
+## 🚀 Live Demo
+https://hydraulic-sales-forecasting-sandeep.streamlit.app/
+
+
 # Hydraulic Sales Forecasting (Streamlit App)
 
 This project predicts hydraulic product sales using machine learning
@@ -13,3 +17,4 @@ and is deployed using Streamlit.
 ```bash
 pip install -r requirements.txt
 streamlit run src/hydro.py
+
